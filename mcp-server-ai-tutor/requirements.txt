@@ -1,2 +1,5 @@
 mcp<2
 requests
+pypdf
+sentence-transformers
+qdrant-client
